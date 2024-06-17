@@ -1,3 +1,1 @@
-nginx
-#支持私库
-0nlylty/dockercopilot:UGREEN
+hslr/sun-panel:latest
