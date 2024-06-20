@@ -1,1 +1,1 @@
-stashapp/stash
+dockercopilot:UGREEN
