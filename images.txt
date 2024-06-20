@@ -1,1 +1,1 @@
-dockercopilot:UGREEN
+linuxserver/embystat
