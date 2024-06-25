@@ -1,1 +1,1 @@
-superng6/aria2
+onlyoffice/documentserver:7.1
