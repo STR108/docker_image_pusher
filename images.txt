@@ -1,1 +1,1 @@
-halohub/halo:2.17.2
+jc21/nginx-proxy-manager:latest
