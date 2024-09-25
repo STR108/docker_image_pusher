@@ -1,1 +1,1 @@
-ghcr.io/imagegenius/immich:openvino-v1.115.0-ig29
+redis
