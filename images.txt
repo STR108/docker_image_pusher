@@ -1,1 +1,1 @@
-dushixiang/guacd:latest
+infiniflow/ragflow:dev
