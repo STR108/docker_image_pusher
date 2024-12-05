@@ -1,1 +1,1 @@
-corentinth/enclosed:1.11.0
+teamspeak:latest
