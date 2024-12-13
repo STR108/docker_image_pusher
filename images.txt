@@ -1,1 +1,1 @@
-dushixiang/next-terminal:latest
+dushixiang/guacd:latest
