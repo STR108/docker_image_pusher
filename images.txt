@@ -1,1 +1,1 @@
-dushixiang/guacd:latest
+deluan/navidrome
