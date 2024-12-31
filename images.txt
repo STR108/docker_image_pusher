@@ -1,1 +1,1 @@
-deluan/navidrome
+surveyking/surveyking:v1.8.2
