@@ -1,1 +1,1 @@
-linuxserver/wireguard:latest
+weejewel/wg-easy
