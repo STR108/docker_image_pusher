@@ -1,1 +1,1 @@
-ghcr.io/pocketpairjp/palserver:v0.7.2.87654
+kagurazakanyaa/palworld:latest
