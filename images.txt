@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-08-03T04-33-23Z
+ghcr.io/pocketpairjp/palserver:v0.7.2.87654
