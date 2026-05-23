@@ -1,1 +1,1 @@
-chigusa/bililive-go:v0.7.39
+neosmemo/memos:0.28.0
