@@ -1,1 +1,1 @@
-ghcr.io/coracoo/dockports:latest
+golang:1.24-alpine
